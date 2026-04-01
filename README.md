@@ -1,16 +1,17 @@
-### 4. iLovePDF - PDF 在线处理工具 (Online PDF Tools)  
+# Useful Tools
 
-#### 优势 (Advantages)  
-- 提供多种PDF处理功能，如合并、拆分、压缩等。 (Offers various PDF handling functions, such as merging, splitting, compressing, etc.)  
-- 用户界面友好，操作简单。 (User-friendly interface, easy to operate.)  
-- 在线使用，无需下载软件。 (Used online without the need to download software.)  
+## Playwright
+- Bilingual: Playwright是一个Node.js库，用于自动化Web应用程序的测试。\
+- Official Link: [Playwright](https://playwright.dev/)
 
-#### 用例 (Use Cases)  
-- 快速合并多个PDF文件。 (Quickly merge multiple PDF files.)  
-- 压缩文件以便于分享。 (Compress files for easier sharing.)  
-- 转换PDF为其他格式，比如Word。 (Convert PDF to other formats, such as Word.)  
+## Bandizip
+- Bilingual: Bandizip是一个快速和免费的压缩软件。\
+- Official Link: [Bandizip](https://www.bandizip.com/)
 
-#### 官方链接 (Official Links)  
-- [iLovePDF官网](https://www.ilovepdf.com/)  
-- [iLovePDF Official Website](https://www.ilovepdf.com/)  
+## SumatraPDF
+- Bilingual: SumatraPDF是一个轻量级的PDF阅读器。\
+- Official Link: [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
+## iLovePDF
+- Bilingual: iLovePDF免费观看合并、分割、压缩PDF。支持多种工具使用。\
+- Official Link: [iLovePDF](https://www.ilovepdf.com/)
